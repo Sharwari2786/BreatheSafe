@@ -11,20 +11,6 @@ Streamlit dashboard.
 ## Demo Link
 https://breathesafe-bygtuyl7wb35aqzpdh6nav.streamlit.app/
 
-## Folder structure
-
-```
-air_pollution_project/
-├── app.py                          # Streamlit dashboard (what you run)
-├── analysis.py                     # Cleaning + Pearson correlation + age-group logic
-├── generate_sample_data.py         # Creates the SAMPLE CSV files (optional to run)
-├── requirements.txt                # Python libraries needed
-├── README.md                       # This file
-└── data/
-    ├── sample_air_pollution.csv        # SAMPLE: date, aqi, pm25, pm10
-    └── sample_hospital_admissions.csv  # SAMPLE: date, age_group, admissions
-```
-
 ## Setup and run (step by step)
 
 1. **Install Python 3.9 or newer** from https://www.python.org/downloads/ (tick "Add Python to PATH" on Windows).
