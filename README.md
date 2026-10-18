@@ -8,14 +8,8 @@ A beginner-friendly Python project that cleans air-pollution and hospital-admiss
 the Pearson correlation between them, finds the most affected age group, and shows everything in a
 Streamlit dashboard.
 
-> ## ⚠️ Important: the included data is SAMPLE data
-> The two CSV files in `data/` are **synthetic (computer-generated)**. They are **not** real AQI readings
-> and **not** real hospital records. They were created by `generate_sample_data.py` so the dashboard can be
-> demonstrated. The correlation in the sample data is very high because the generator links admissions to
-> PM2.5 on purpose, so **do not present those results as real findings.**
-> To get real conclusions, upload real datasets (see "Using real data" below).
-
----
+## Demo Link
+https://breathesafe-bygtuyl7wb35aqzpdh6nav.streamlit.app/
 
 ## Folder structure
 
