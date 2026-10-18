@@ -1,5 +1,5 @@
-#BreatheSafe
-Air Pollution and Respiratory Diseases Analysis
+# BreatheSafe
+**Air Pollution and Respiratory Diseases Analysis
 
 **Study area:** Nagpur, Maharashtra, India
 **Problem statement:** Understand the relationship between air pollution and respiratory diseases.
